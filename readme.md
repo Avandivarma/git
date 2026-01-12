@@ -2,3 +2,6 @@
 
 Normal class
 
+This is change from feature branch
+
+WE CAN UPDATE THE BRANCH SIDE
